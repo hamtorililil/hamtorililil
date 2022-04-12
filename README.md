@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamtorililil&show_icons=true&theme=tokyonight)
 
-![HTML5](http://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=E34F26)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=E34F26">
 
 <!--
 **hamtorililil/hamtorililil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
