@@ -2,7 +2,7 @@
 <h3> 🌱Tech🌱 </h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=000000" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
 
-![Visual Studio Code](http://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white)
+![Visual%20Studio%20Code](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
 
